@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/forum"
+        android:icon="@drawable/forum_icon"
+        android:title="@string/forum"/>
+
+    <item
+        android:id="@+id/information"
+        android:icon="@drawable/info"
+        android:title="@string/Information"/>
+
+    <item
+        android:id="@+id/registrasi"
+        android:icon="@drawable/regist"
+        android:title="@string/Reservation" />
+
+</menu>
+

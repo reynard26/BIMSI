@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="projectc1.com">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_adaptive_fore"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.C1Project">
+        <activity android:name=".sqllite.EditNotes" />
+        <activity android:name=".sqllite.StudentNotes" />
+        <activity android:name=".sqllite.tambah_studentnote" />
+        <activity android:name=".Reservation.Reservation" />
+        <activity android:name=".Information.Informasi" />
+        <activity android:name=".Reservation.FormPembelian" />
+        <activity android:name=".Admin.AdminOrder" />
+        <activity android:name=".Reservation.Detail" />
+        <activity android:name=".Maps.CustomMaps" />
+        <activity android:name=".Admin.ReadAdmin" />
+        <activity android:name=".Admin.UpdateAdmin" />
+        <activity android:name=".forum.Forum" />
+        <activity android:name=".forum.TambahForum" />
+        <activity android:name=".forum.EditForum" />
+        <activity android:name=".Matakuliah.accounting" />
+        <activity android:name=".Matakuliah.algorithm" />
+        <activity android:name=".Matakuliah.mobileapp" />
+        <activity android:name=".Matakuliah.database" />
+        <activity android:name=".Button" />
+        <activity android:name=".Matakuliah.dataanalysis" />
+        <activity android:name=".Main.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main.SignUp" />
+        <activity android:name=".Main.LogIn" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCTMS2eNeCRvEakeYmcm8Mkl3JomII5ZQY" />
+    </application>
+
+</manifest>
