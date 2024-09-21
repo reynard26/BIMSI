@@ -8,6 +8,48 @@ Tujuan utama dari aplikasi ini adalah untuk meningkatkan efisiensi administrasi 
 Pembentukan sistem ini menggunakan bahasa pemrograman Java dengan PHP dasar.
 
 ## Mockup Preview
+### Authentication Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-1.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-2.jpg" width="200" />
+</p>
 
-#Authentication
-https://raw.githubusercontent.com/reynard26/ProjectAssets/f6ac3f21c34adf2a8204951f0548634cff8be6cd/BIMSI-3.jpg
+### Authentication Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-1.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-2.jpg" width="200" />
+</p>
+
+### Home Screen Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-3.jpg" width="200" />
+</p>
+
+### Information about Course Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-4.jpg" width="200" />
+</p>
+
+### Student Note Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-5.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-6.jpg" width="200" />
+</p>
+
+### Forum Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-7.jpg" width="200" />
+</p>
+
+### Reservation Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-8.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-9.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-10.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-11.jpg" width="200" />
+</p>
+
+### Reservation Invoice Mockup
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-12.jpg" width="200" />
+</p>
