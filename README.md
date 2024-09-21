@@ -10,4 +10,4 @@ Pembentukan sistem ini menggunakan bahasa pemrograman Java dengan PHP dasar.
 ## Mockup Preview
 
 #Authentication
-https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-1.png
+https://raw.githubusercontent.com/reynard26/ProjectAssets/f6ac3f21c34adf2a8204951f0548634cff8be6cd/BIMSI-3.jpg
