@@ -8,4 +8,6 @@ Tujuan utama dari aplikasi ini adalah untuk meningkatkan efisiensi administrasi 
 Pembentukan sistem ini menggunakan bahasa pemrograman Java dengan PHP dasar.
 
 ## Mockup Preview
-https://drive.google.com/file/d/16VXFcKGLIq1oFOXscG71mg8PRYU0HOAQ/view?usp=sharing
+
+#Authentication
+https://raw.githubusercontent.com/reynard26/ProjectAssets/main/BIMSI-1.png
